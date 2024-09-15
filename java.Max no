@@ -1,0 +1,17 @@
+public class{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] arr= {1,21,3,455,5,34,67};
+		int max=0;
+		for(int element: arr) {
+			if(element> max) {
+				max=element;
+			}
+		}
+		System.out.println("The value of maximum element in this array is: " + max);
+
+	}
+
+}
+
