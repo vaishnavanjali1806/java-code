@@ -1,0 +1,12 @@
+public class {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	float[] marks= {45.7f, 55.5f, 65.7f, 44.3f, 100.0f};
+		float sum=0;
+		for(float element:marks){
+		sum=sum+element;
+		}
+		System.out.println("The valuem of sum is"+ sum);
+		  }
+		}
