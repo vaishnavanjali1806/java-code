@@ -1,0 +1,24 @@
+package anjali;
+
+import java.util.Scanner;
+
+public class cricket {
+
+	public static void main(String[] args) {
+		
+		Scanner scn =new Scanner(System.in);
+		int ind=scn.nextInt();
+		int sa=scn.nextInt();
+		if(ind>sa) {
+			System.out.println("INDIA WON");
+		}else if (ind==sa) {
+			System.out.println("Match tird");
+			
+		}else {
+			System.out.println("SOUTH AFRICA WON");
+		}
+		
+
+	}
+
+} 
