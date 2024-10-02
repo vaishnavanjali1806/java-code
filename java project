@@ -2,7 +2,7 @@ package anjali;
 
 import java.util.Scanner;
 
-public class project33 {
+public class project {
 
 	public static void main(String[] args) {
 		
