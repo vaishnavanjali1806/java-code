@@ -17,4 +17,6 @@ public class age {
 			
 		}else {
 			System.out.println("Old");
+}
+}
 		
