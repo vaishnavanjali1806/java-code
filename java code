@@ -2,7 +2,7 @@ package anjali;
 
 import java.util.Scanner;
 
-public class age {
+public class code{
 
 	public static void main(String[] args) {
 		
