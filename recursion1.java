@@ -10,3 +10,4 @@ public class project8 {
     public static void main(String[] args) {
         int n = 1;
         printNumber(n);
+    }
