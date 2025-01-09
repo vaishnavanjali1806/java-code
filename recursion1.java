@@ -11,3 +11,4 @@ public class project8 {
         int n = 1;
         printNumber(n);
     }
+}
