@@ -1,4 +1,4 @@
-public class project8 {
+public class project {
     public static void printNumber(int n) {
         if(n == 6){
             return;
