@@ -1,4 +1,4 @@
-public class project9 {
+public class project {
   
     public static void printSum(int i, int n, int sum) {
         if(i == n){
