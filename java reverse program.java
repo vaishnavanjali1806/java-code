@@ -1,5 +1,5 @@
 
-public class program8 {
+public class program {
     public static void main(String[] args) {
         int num = 23456;
         int ans = 0;
