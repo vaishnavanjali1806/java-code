@@ -10,3 +10,5 @@ public class program10 {
             case "Friday", "Saturday" -> System.out.println("Weekday");
         }
  
+    }
+}
